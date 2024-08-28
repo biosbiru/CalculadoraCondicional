@@ -1,0 +1,16 @@
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\bin\Debug\net8.0-windows\CalculadoraCondicional.exe
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\bin\Debug\net8.0-windows\CalculadoraCondicional.deps.json
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\bin\Debug\net8.0-windows\CalculadoraCondicional.runtimeconfig.json
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\bin\Debug\net8.0-windows\CalculadoraCondicional.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\bin\Debug\net8.0-windows\CalculadoraCondicional.pdb
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.Form1.resources
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.csproj.GenerateResource.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.GeneratedMSBuildEditorConfig.editorconfig
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.AssemblyInfoInputs.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.AssemblyInfo.cs
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.csproj.CoreCompileInputs.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\refint\CalculadoraCondicional.dll
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.pdb
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\CalculadoraCondicional.genruntimeconfig.cache
+F:\REPOSITORIOS\PARTICULAR\CalculadoraCondicional\CalculadoraCondicional\obj\Debug\net8.0-windows\ref\CalculadoraCondicional.dll

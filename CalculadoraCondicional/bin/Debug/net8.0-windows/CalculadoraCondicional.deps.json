@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculadoraCondicional/1.0.0": {
+        "runtime": {
+          "CalculadoraCondicional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraCondicional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
